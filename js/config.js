@@ -106,8 +106,8 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 "Enjoy the server",
-"Thanks for joining us!",
-"Did you know these backgrounds and songs are from Touhou?"
+"Thanks for joining us To Day!",
+"if you are here to  minge rdm prop kill and all of that shit you you might as well bloody fuck off out of here?"
 ];
 
 /*Random message order?*/
