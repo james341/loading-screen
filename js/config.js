@@ -88,9 +88,8 @@ var l_musicDisplay = true;
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
 	{ogg: "songs/Lullaby of Deserted Hell.ogg", name: "Lullaby of Deserted Hell"},
-	{youtube: "Q4Z5hBGTeho", name: "[No Copyright Music] Candy-coloured Sky - Catmosphere [Collaboration w/ CopyrightFreeNetwork]"},
-	{youtube: "siCmqvfw_1g", name: "Spring In My Step"},
-	{youtube: "0t2tjNqGyJI", name: "Twenty One Pilots"}
+	{youtube: "Zgmvg-zzctI", name: "Lil Uzi Vert - XO TOUR Llif3 "},
+	
 ];
 
 /*Random music order?*/
