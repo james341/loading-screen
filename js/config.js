@@ -84,8 +84,8 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/Lullaby of Deserted Hell.ogg", name: "Lullaby of Deserted Hell"},
-	{youtube: "Zgmvg-zzctI", name: "Lil Uzi Vert - XO TOUR Llif3 "},
+	{youtube: "TW9d8vYrVFQ", name: "Elektronomia - Sky High"},
+	{youtube: "NJNp6DnAAIo", name: "Cartoon - C U Again feat. Mikk Mäe (Cartoon vs Futuristik VIP"},
 	
 ];
 
@@ -101,9 +101,9 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Enjoy the server",
+"Enjoy the server!",
 "Thanks for joining us To Day!",
-"if you are here to  minge rdm prop kill and all of that shit you you might as well bloody fuck off out of here?"
+"if you are here to  minge rdm prop kill and all of that shit you you might as well bloody fuck off out of here!",
 ];
 
 /*Random message order?*/
