@@ -86,7 +86,8 @@ Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
 	{youtube: "TW9d8vYrVFQ", name: "Elektronomia - Sky High"},
 	{youtube: "NJNp6DnAAIo", name: "Cartoon - C U Again feat. Mikk Mäe (Cartoon vs Futuristik VIP"},
-	
+	{youtube: "6-hRrKFkAQE", name: "WRLD - By Design"},
+
 ];
 
 /*Random music order?*/
