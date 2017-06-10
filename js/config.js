@@ -92,6 +92,8 @@ var l_musicPlaylist = [
         {youtube: "8fc2CfBQD70", name: "Black And Gold"},
         {youtube: "nfWlot6h_JM", name: "Taylor Swift - Shake It Off"},
         {youtube: "Ssvu2yncgWU", name: "We Are One Vexento"},
+        {youtube: "dM2hrLwdaoU", name: "Distrion & Alex Skrindo Lightning"},
+        {youtube: "47P3bzefCVI", name: "Silverchair Straight Lines"},
 
 ];
 
@@ -109,7 +111,7 @@ var l_messagesEnabled = true;
 var l_messages = [
 "Enjoy the server!",
 "Thanks for joining us To Day!",
-"if you are here to  minge rdm prop kill and all of that shit you you might as well bloody fuck off out of here!",
+"if you are here to  minge rdm prop kill and all of that shit you might as well bloody fuck off out of here!",
 "Need a staff member? Use @ Before your message!",
 ];
 
