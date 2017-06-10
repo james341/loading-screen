@@ -87,6 +87,9 @@ var l_musicPlaylist = [
 	{youtube: "TW9d8vYrVFQ", name: "Elektronomia - Sky High"},
 	{youtube: "NJNp6DnAAIo", name: "Cartoon - C U Again feat. Mikk Mäe (Cartoon vs Futuristik VIP"},
 	{youtube: "6-hRrKFkAQE", name: "WRLD - By Design"},
+        {youtube: "8fc2CfBQD70", name: "Black And Gold"},
+        {youtube: "nfWlot6h_JM", name: "Taylor Swift - Shake It Off"},
+        {youtube: "Ssvu2yncgWU", name: "We Are One Vexento"},
 
 ];
 
@@ -105,6 +108,7 @@ var l_messages = [
 "Enjoy the server!",
 "Thanks for joining us To Day!",
 "if you are here to  minge rdm prop kill and all of that shit you you might as well bloody fuck off out of here!",
+"see anybody breaking the rules please report it to the near by staff @!",
 ];
 
 /*Random message order?*/
