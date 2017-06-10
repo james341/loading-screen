@@ -110,7 +110,7 @@ var l_messages = [
 "Enjoy the server!",
 "Thanks for joining us To Day!",
 "if you are here to  minge rdm prop kill and all of that shit you you might as well bloody fuck off out of here!",
-"see anybody breaking the rules please report it to the near by staff @!",
+"Need a staff member? Use @ Before your message!",
 ];
 
 /*Random message order?*/
