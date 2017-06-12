@@ -94,6 +94,9 @@ var l_musicPlaylist = [
         {youtube: "Ssvu2yncgWU", name: "We Are One Vexento"},
         {youtube: "dM2hrLwdaoU", name: "Distrion & Alex Skrindo Lightning"},
         {youtube: "47P3bzefCVI", name: "Silverchair Straight Lines"},
+        {youtube: "Ycmwj461TtU", name: "You Reposted In The Wrong Neighborhood"},
+	{youtube: "MkNeIUgNPQ8", name: "Adventures A Himitsu"},
+        {youtube: "q1ULJ92aldE", name: "Syn Cole Feel Good"},
 
 ];
 
@@ -113,6 +116,7 @@ var l_messages = [
 "Thanks for joining us To Day!",
 "if you are here to  minge rdm prop kill and all of that shit you might as well bloody fuck off out of here!",
 "Need a staff member? Use @ Before your message!",
+"Groups Known As The Chain Gang OR Trout Gang. Are Not Permitted And Will Be Ip Banned ASAP!",
 ];
 
 /*Random message order?*/
