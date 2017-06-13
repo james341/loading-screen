@@ -55,7 +55,9 @@ var l_bgImages = [
         "backgrounds/images/touhou03.jpg",
         "backgrounds/images/touhou04.jpg",
         "backgrounds/images/touhou05.jpg",
- 
+        "backgrounds/images/touhou06.jpg"
+        "backgrounds/images/touhou07.jpg"
+
 ];
 
 /*Random background images order?*/
@@ -102,6 +104,7 @@ var l_musicPlaylist = [
         {youtube: "Cw_tQXh6X34", name: "Gandalf Sax Guy Classroom edition"},
         {youtube: "szj59j0hz_4", name: "Galantis Runaway"},
         {youtube: "SE_QDk3dR4c", name: "Candy Coloured Sky"},
+        {youtube: "If191dSnbvU", name: "Candyland NCSRelease"},
 
 ];
 
@@ -121,7 +124,7 @@ var l_messages = [
 "Thanks for joining us To Day!",
 "if you are here to  minge rdm prop kill and all of that shit you might as well bloody fuck off out of here!",
 "Need a staff member? Use @ Before your message!",
-"Groups Known As The Chain Gang OR Trout Gang. Are Not Permitted And Will Be Ip Banned ASAP!",
+"Groups Known As The Chaink Gang OR Trout Gang. Are Not Permitted And Will Be Ip Banned ASAP!",
 "Apply For Staff Here http://divineforums.mistforums.com/category/staff-application-198649!",
 ];
 
