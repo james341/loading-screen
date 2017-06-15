@@ -106,10 +106,10 @@ var l_musicPlaylist = [
         {youtube: "szj59j0hz_4", name: "Galantis Runaway"},
         {youtube: "SE_QDk3dR4c", name: "Candy Coloured Sky"},
         {youtube: "If191dSnbvU", name: "Candyland NCSRelease"},
-        {youtube: "g8PrTzLaLHc", name: "On Top of the World"},
-
+        {youtube: "RPto4nRUsB8", name: "Odjbox - Otto Croy"}
+        
+        
 ];
-
 /*Random music order?*/
 var l_musicRandom = true;
 
