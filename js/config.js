@@ -4,16 +4,17 @@
  / __| |/ _ \/ _ \ |/ / |    / _ \ / _` |/ _` |
  \__ \ |  __/  __/   <| |___| (_) | (_| | (_| |
  |___/_|\___|\___|_|\_\______\___/ \__,_|\__,_|
-    version 2.06
+    version 2.08
 */
 
 /*URL for the server logo
-Leave it blank to use text instead*/
-var l_serverImage = "images/logo.png";
+Leave it blank to use text instead
+(Put the files in the images folder)*/
+var l_serverImage = "logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Nigress Gaming ";
+var l_serverName = "sleekLoad 2";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -21,44 +22,47 @@ var l_bgVideo = false;
 
 /*Video background
 Avaiable options:
-"backgrounds/videos/aurora.webm"
-"backgrounds/videos/bluefall.webm"
-"backgrounds/videos/bluetilefloor.webm"
-"backgrounds/videos/bluewhitecircles.webm"
-"backgrounds/videos/bokehlens.webm"
-"backgrounds/videos/cleanbokeh.webm"
-"backgrounds/videos/coldnight.webm"
-"backgrounds/videos/colorfulburst.webm"
-"backgrounds/videos/dancingstars.webm"
-"backgrounds/videos/dropsflares.webm"
-"backgrounds/videos/focusorangebokeh.webm"
-"backgrounds/videos/glimmering.webm"
-"backgrounds/videos/glowingrings.webm"
-"backgrounds/videos/greencircles.webm"
-"backgrounds/videos/hues.webm"
-"backgrounds/videos/inthedeep.webm"
-"backgrounds/videos/modernflourish.webm"
-"backgrounds/videos/orangeaura.webm"
-"backgrounds/videos/warminside.webm"
-"backgrounds/videos/yellowgreen.webm"
+"aurora.webm"
+"bluefall.webm"
+"bluetilefloor.webm"
+"bluewhitecircles.webm"
+"bokehlens.webm"
+"cleanbokeh.webm"
+"coldnight.webm"
+"colorfulburst.webm"
+"dancingstars.webm"
+"dropsflares.webm"
+"focusorangebokeh.webm"
+"glimmering.webm"
+"glowingrings.webm"
+"greencircles.webm"
+"hues.webm"
+"inthedeep.webm"
+"modernflourish.webm"
+"orangeaura.webm"
+"warminside.webm"
+"yellowgreen.webm"
 
 You can add custom backgrounds
-Just make sure it is at webm VP8 format */
-var l_background = "backgrounds/videos/glimmering.webm";
+Just make sure it is at webm VP8 format 
+(Put the files in the backgrounds/videos folder)*/
+var l_background = "glimmering.webm";
 
 /*(Image-background only)
 Place one or more images
-Multiple images will automatically shuffle between them*/
+Multiple images will automatically shuffle between them
+(Put the files in the backgrounds/images folder)*/
 var l_bgImages = [
-	"backgrounds/images/touhou01.jpg",
-	"backgrounds/images/touhou02.jpg",
-        "backgrounds/images/touhou03.jpg",
-        "backgrounds/images/touhou04.jpg",
-        "backgrounds/images/touhou05.jpg",
-        "backgrounds/images/touhou06.jpg"
-        "backgrounds/images/touhou07.jpg"
-        "backgrounds/images/touhou08.jpg"
-        "backgrounds/images/touhou09.jpg"
+	"touhou01.jpg",
+	"touhou02.jpg",
+	"touhou03.jpg",
+	"touhou04.jpg",
+	"touhou05.jpg",
+	"touhou06.jpg",
+	"touhou07.jpg",
+	"touhou08.jpg",
+        "touhou09.jpg",
+   
 ];
 
 /*Random background images order?*/
@@ -89,23 +93,27 @@ var l_music = true;
 var l_musicDisplay = true;
 
 /*Music playlist
-Place how much Youtube IDs/.ogg you want*/
+Place how much .ogg songs you want
+(Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "TW9d8vYrVFQ", name: "Elektronomia - Sky High"},
-	{youtube: "NJNp6DnAAIo", name: "Cartoon - C U Again feat. Mikk Mäe (Cartoon vs Futuristik VIP"},
-	{youtube: "6-hRrKFkAQE", name: "WRLD - By Design"},
-        {youtube: "9iHM6X6uUH8", name: "Jim Yosef Link"},
-        {youtube: "nfWlot6h_JM", name: "Taylor Swift - Shake It Off"},
-        {youtube: "Ssvu2yncgWU", name: "We Are One Vexento"},
-        {youtube: "dM2hrLwdaoU", name: "Distrion & Alex Skrindo Lightning"},
-        {youtube: "47P3bzefCVI", name: "Silverchair Straight Lines"},
-        {youtube: "Ycmwj461TtU", name: "You Reposted In The Wrong Neighborhood"},
-	{youtube: "MkNeIUgNPQ8", name: "Adventures A Himitsu"},
-        {youtube: "q1ULJ92aldE", name: "Syn Cole Feel Good"},
-        {youtube: "VcEKPAKuvgU", name: "Close to You"},
-        {youtube: "szj59j0hz_4", name: "Galantis Runaway"},
-        {youtube: "SE_QDk3dR4c", name: "Candy Coloured Sky"},
-        {youtube: "If191dSnbvU", name: "Candyland NCSRelease"},
+	{youtube: "ylbNYjXgh3M", name: "you reposted in the wrong neighborhood"},
+	{youtube: "bR-s4ReIxJo", name: "Foster the People - Pumped up Kicks remix"},
+	{youtube: "0t2tjNqGyJI", name: "Twenty One Pilots - Stressed Out"},
+	{youtube: "q1ULJ92aldE", name: "Syn Cole - Feel Good"},
+	{youtube: "ChK8TZCItyY", name: "Windows Song Trap Remix"},
+	{youtube: "feA64wXhbjo", name: "Bag Raiders - Shooting Stars"},
+	{youtube: "oxnqx6COUtI", name: "The Notorious B.I.G"},
+	{youtube: "1b2MaQoIbRA", name: "A Himitsu - Adventures"},
+        {youtube: "OgqDO1wxQ8E", name: "Over The Horizon"},
+        {youtube: "owrhKIN3Y90", name: "Carefree - Kevin MacLeod"},
+        {youtube: "YAG4k5f9ceQ", name: "take me down like a domino"},
+        {youtube: "n4OS3MsWEtw", name: "Lily Allen - Smile"},
+        {youtube: "aU3VTCmCWjs", name: "Dancing in the Moonlight"},
+        {youtube: "dX3k_QDnzHE", name: "M83 'Midnight City' Official video"},
+        {youtube: "R8ZRCXy5vhA", name: "HighNCS Release"},
+        {youtube: "RLpPpQk6h7A", name: "Nightcore - Cosby Sweater"},
+        {youtube: "s_KhOempeQE", name: "if you close your eyes"},
+        {youtube: "v1hBPzPGrUA", name: "Poker Face Lyrics"},
         {youtube: "RPto4nRUsB8", name: "Odjbox - Otto Croy"}
         
         
@@ -116,21 +124,23 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 25;
+var l_musicVolume = 15;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Enjoy the server!",
-"Thanks For Joining Us To Day M8!",
-"if you are here to  minge rdm prop kill and all of that shit you might as well bloody fuck off out of here!",
-"Need a staff member? Use @ Before your message!",
-"Groups Known As The Chaink Gang OR Trout Gang. Are Not Permitted And Will Be Ip Banned ASAP!",
-"Apply For Staff Here http://divineforums.mistforums.com/category/staff-application-198649!",
-"Do Not Hack With In This Server Or You May Get Banned!",
-
+	"Vips Are Responsible For their Own Actions And Will Lose The Rank If Caught Abusing This Gos For Admins AsWell!",
+	"The Admins Are AlWays Watching So Dont Fuck Up. And Behave Nigger!",
+	"Mingeing In This Server Will Result In A Perma Ban With No Questions Asked!",
+        "If you Have Any Issues Contact Us If You Don't See Us In Game 	Let Us Know Here Chromagaming.mistforums.com/!",
+        "Thanks For Playing Here Hope You Enjoy Your Time Here M8!",
+        "Donate Send Money To Taine049@gmail.com!",
+        "Here To Advertise Your Server ? Well If You Are Then You Can Fuck Off Mate. This Server Is Not An Advertising Dumping Ground For 1O Year Old Kids!", 
+        "Just Rp For Fuck Sakes!",
+        "Do Not Ask For Ranks!",
+        "I Dont Know What Else To Fucking Say AnyMore Just Be A Good Boy Or Girl  So You Dont Get Banned Ok!"
 ];
 /*Random message order?*/
 var l_messagesRandom = true;
