@@ -95,27 +95,10 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "ylbNYjXgh3M", name: "you reposted in the wrong neighborhood"},
-	{youtube: "bR-s4ReIxJo", name: "Foster the People - Pumped up Kicks remix"},
-	{youtube: "0t2tjNqGyJI", name: "Twenty One Pilots - Stressed Out"},
-	{youtube: "q1ULJ92aldE", name: "Syn Cole - Feel Good"},
-	{youtube: "ChK8TZCItyY", name: "Windows Song Trap Remix"},
-	{youtube: "feA64wXhbjo", name: "Bag Raiders - Shooting Stars"},
-	{youtube: "oxnqx6COUtI", name: "The Notorious B.I.G"},
-	{youtube: "1b2MaQoIbRA", name: "A Himitsu - Adventures"},
-        {youtube: "OgqDO1wxQ8E", name: "Over The Horizon"},
-        {youtube: "owrhKIN3Y90", name: "Carefree - Kevin MacLeod"},
-        {youtube: "YAG4k5f9ceQ", name: "take me down like a domino"},
-        {youtube: "n4OS3MsWEtw", name: "Lily Allen - Smile"},
-        {youtube: "aU3VTCmCWjs", name: "Dancing in the Moonlight"},
-        {youtube: "dX3k_QDnzHE", name: "M83 'Midnight City' Official video"},
-        {youtube: "R8ZRCXy5vhA", name: "HighNCS Release"},
-        {youtube: "RLpPpQk6h7A", name: "Nightcore - Cosby Sweater"},
-        {youtube: "s_KhOempeQE", name: "if you close your eyes"},
-        {youtube: "v1hBPzPGrUA", name: "Poker Face Lyrics"},
-        {youtube: "RPto4nRUsB8", name: "Odjbox - Otto Croy"}
-        
-        
+	{ogg: "lullaby.ogg", name: "Lullaby of Deserted Hell"},
+	{ogg: "falls_in_fall.ogg", name: "秋に舞う椛と滝飛沫"},
+	{youtube: "zA6wRutN_7Q", name: "Suwa-cafeteria"},
+	{youtube: "KtlKbE4qU0c", name: "月の妖鳥、化猫の幻"},
 ];
 
 /*Random music order?*/
@@ -130,17 +113,11 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Vips Are Responsible For their Own Actions And Will Lose The Rank If Caught Abusing This Gos For Admins AsWell!",
-	"The Admins Are AlWays Watching So Dont Fuck Up. And Behave Nigger!",
-	"Mingeing In This Server Will Result In A Perma Ban With No Questions Asked!",
-        "If you Have Any Issues Contact Us If You Don't See Us In Game 	Let Us Know Here Chromagaming.mistforums.com/!",
-        "Thanks For Playing Here Hope You Enjoy Your Time Here M8!",
-        "Donate Send Money To Taine049@gmail.com!",
-        "Here To Advertise Your Server ? Well If You Are Then You Can Fuck Off Mate. This Server Is Not An Advertising Dumping Ground For 1O Year Old Kids!", 
-        "Just Rp For Fuck Sakes!",
-        "Do Not Ask For Ranks!",
-        "I Dont Know What Else To Fucking Say AnyMore Just Be A Good Boy Or Girl  So You Dont Get Banned Ok!"
+	"Enjoy the server",
+	"Thanks for joining us!",
+	"Did you know these backgrounds and songs are from Touhou?"
 ];
+
 /*Random message order?*/
 var l_messagesRandom = true;
 
