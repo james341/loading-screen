@@ -53,16 +53,16 @@ Place one or more images
 Multiple images will automatically shuffle between them
 (Put the files in the backgrounds/images folder)*/
 var l_bgImages = [
-	"touhou01",
-	"touhou02",
-	"touhou03",
-	"touhou04",
-	"touhou05",
-	"touhou06",
-	"touhou07",
-	"touhou08",
-        "touhou09",
-   
+	"touhou01.jpg",
+	"touhou02.jpg",
+	"touhou03.jpg",
+	"touhou04.jpg",
+	"touhou05.jpg",
+	"touhou06.jpg",
+	"touhou07.jpg",
+	"touhou08.jpg",
+        "touhou09.jpg",
+ 
 ];
 
 /*Random background images order?*/
