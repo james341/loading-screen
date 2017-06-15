@@ -131,6 +131,7 @@ var l_messages = [
 "Apply For Staff Here http://divineforums.mistforums.com/category/staff-application-198649!",
 "Do Not Hack With In This Server Or You May Get Banned!",
 
+
 ];
 
 /*Random message order?*/
