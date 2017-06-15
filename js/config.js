@@ -56,7 +56,10 @@ var l_bgImages = [
         "backgrounds/images/touhou04.jpg",
         "backgrounds/images/touhou05.jpg",
         "backgrounds/images/touhou06.jpg"
-        
+        "backgrounds/images/touhou07.jpg"
+        "backgrounds/images/touhou08.jpg"
+        "backgrounds/images/touhou09.jpg"
+
 ];
 
 /*Random background images order?*/
@@ -92,7 +95,7 @@ var l_musicPlaylist = [
 	{youtube: "TW9d8vYrVFQ", name: "Elektronomia - Sky High"},
 	{youtube: "NJNp6DnAAIo", name: "Cartoon - C U Again feat. Mikk Mäe (Cartoon vs Futuristik VIP"},
 	{youtube: "6-hRrKFkAQE", name: "WRLD - By Design"},
-        {youtube: "8fc2CfBQD70", name: "Black And Gold"},
+        {youtube: "9iHM6X6uUH8", name: "Jim Yosef Link"},
         {youtube: "nfWlot6h_JM", name: "Taylor Swift - Shake It Off"},
         {youtube: "Ssvu2yncgWU", name: "We Are One Vexento"},
         {youtube: "dM2hrLwdaoU", name: "Distrion & Alex Skrindo Lightning"},
@@ -100,10 +103,11 @@ var l_musicPlaylist = [
         {youtube: "Ycmwj461TtU", name: "You Reposted In The Wrong Neighborhood"},
 	{youtube: "MkNeIUgNPQ8", name: "Adventures A Himitsu"},
         {youtube: "q1ULJ92aldE", name: "Syn Cole Feel Good"},
-        {youtube: "Cw_tQXh6X34", name: "Gandalf Sax Guy Classroom edition"},
+        {youtube: "VcEKPAKuvgU", name: "Close to You"},
         {youtube: "szj59j0hz_4", name: "Galantis Runaway"},
         {youtube: "SE_QDk3dR4c", name: "Candy Coloured Sky"},
         {youtube: "If191dSnbvU", name: "Candyland NCSRelease"},
+        {youtube: "g8PrTzLaLHc", name: "On Top of the World"},
 
 ];
 
@@ -120,11 +124,13 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 "Enjoy the server!",
-"Thanks for joining us To Day!",
+"Thanks For Joining Us To Day M8!",
 "if you are here to  minge rdm prop kill and all of that shit you might as well bloody fuck off out of here!",
 "Need a staff member? Use @ Before your message!",
 "Groups Known As The Chaink Gang OR Trout Gang. Are Not Permitted And Will Be Ip Banned ASAP!",
 "Apply For Staff Here http://divineforums.mistforums.com/category/staff-application-198649!",
+"Do Not Hack With In This Server Or You May Get Banned!",
+
 ];
 
 /*Random message order?*/
