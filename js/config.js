@@ -98,7 +98,7 @@ var l_musicPlaylist = [
 	{ogg: "lullaby.ogg", name: "Lullaby of Deserted Hell"},
 	{ogg: "falls_in_fall.ogg", name: "秋に舞う椛と滝飛沫"},
 	{youtube: "zA6wRutN_7Q", name: "Suwa-cafeteria"},
-	{youtube: "KtlKbE4qU0c", name: "月の妖鳥、化猫の幻"},
+	{youtube: "KtlKbE4qU0c", name: "月の妖鳥、化猫の幻"}
 ];
 
 /*Random music order?*/
